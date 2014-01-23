@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GenerateModule Name="WinForms">
+  <Assemblies>
+    <Assembly PartialName="System.Windows.Forms" />
+    <Assembly PartialName="System.Drawing" />
+  </Assemblies>
+  <Types>
+    <Type Name="System.Windows.Forms.Form" BaseType="System.Windows.Forms.Control" />
+    <Type Name="System.Windows.Forms.Label" BaseType="System.Windows.Forms.Control" />
+  </Types>
+</GenerateModule>
